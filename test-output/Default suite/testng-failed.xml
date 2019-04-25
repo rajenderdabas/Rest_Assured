@@ -3,10 +3,9 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)" preserve-order="false">
     <classes>
-      <class name="TestFramework.basics3">
+      <class name="TestFramework.email">
         <methods>
-          <include name="AddandDeletePlace"/>
-          <include name="getData"/>
+          <include name="sendEmail"/>
         </methods>
       </class>
     </classes>
